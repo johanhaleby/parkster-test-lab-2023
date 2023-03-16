@@ -1,6 +1,6 @@
 # Test Lab for Parkster 2023
 
-Welcome! We'll start off by watching the [Structure and Interpretation of Test Cases](https://www.youtube.com/watch?v=tWn8RA_DEic) by Kevlin Henney.
+Welcome! We'll start off by watching the [Structure and Interpretation of Test Cases](https://www.youtube.com/watch?v=tWn8RA_DEic) talk by Kevlin Henney.
 
 Next, it's time to try our newly aquired skillz on real code. Choose _any_ of the following code bases and write beautiful tests/specifications for them. If you have another idea of some code you want to test, feel free to use that instead.
 
