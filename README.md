@@ -9,3 +9,5 @@ Next it's time to try our newly aquired skillz on real code. Choose _any_ of the
 3. Johan's [DDD Tycoon](https://github.com/johanhaleby/ddd-tycoon) implementation
 4. Your own DDD Tycoon implementation from last year
 5. Your own Rock Paper Scissors implementation from the interview
+
+Good luck!
