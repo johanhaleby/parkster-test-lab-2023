@@ -6,7 +6,7 @@ Next, it's time to try our newly aquired skillz on real code. Choose _any_ of th
 
 1. Johan's [Rock Paper Scissors](https://github.com/johanhaleby/spek2-lab) implementation (Note: Use JUnit 5 and not Spek!)
 2. [Family Account](https://github.com/parkster-dev/core/blob/master/backend/web/core/src/main/java/se/parkster/bc/familyaccount/domain/FamilyAccount.java) (Try not to look at the existing test)
-3. Johan's [DDD Tycoon](https://github.com/johanhaleby/ddd-tycoon) implementation
+3. Johan's [DDD Tycoon](https://github.com/johanhaleby/ddd-tycoon) (Grisen & Örnen) implementation
 4. Your own DDD Tycoon implementation from last year
 5. Your own Rock Paper Scissors implementation from the interview
 
